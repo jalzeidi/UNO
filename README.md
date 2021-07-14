@@ -14,5 +14,3 @@ Two-player mode:
 ![Two Player Mode](demo/Two-player.JPG)
 Four-player mode:
 ![Four Player Mode](demo/Four-player.JPG)
-Gameplay:
-![Gameplay](demo/Gameplay.gif)
