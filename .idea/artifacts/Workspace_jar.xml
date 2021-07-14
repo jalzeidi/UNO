@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Workspace:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Workspace_jar</output-path>
+    <root id="archive" name="Workspace.jar">
+      <element id="module-output" name="Workspace" />
+    </root>
+  </artifact>
+</component>
