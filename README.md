@@ -18,4 +18,4 @@ Gameplay:
 ![Gameplay](demo/Gameplay.gif)  
 
 # Installing
-Install a copy of the [JRE](https://www.oracle.com/java/technologies/javase-jre8-downloads.html) (Java Runtime Environment) on your system and download and run UNO.jar in the repository's out/artifacts/Workspace_jar folder.
+Install a copy of the [JRE](https://www.oracle.com/java/technologies/javase-jre8-downloads.html) (Java Runtime Environment) on your system and download and run UNO.jar from the repository's files
